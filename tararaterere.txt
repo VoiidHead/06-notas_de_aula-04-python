@@ -1,0 +1,40 @@
+Questão 1:
+True
+True
+False
+True
+True
+False
+False
+False
+True
+
+Questão 2:
+False
+True
+False
+False
+
+Questão 3:
+True
+True
+False
+True
+
+Questão 4:
+True
+False
+False
+True
+
+Questão 5:
+a) False
+b) False
+c) True
+d) False
+e) False
+f) False
+g) True
+h) False
+i) False
+j) False
