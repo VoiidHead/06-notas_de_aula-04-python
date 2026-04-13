@@ -45,7 +45,13 @@
 
 ---
 ## Exercícios
+[Lista de exercícios](/lista.md)
+
 [Respostas dos Exercícios do PDF](/tararaterere.txt)
+
+Respostas da lista de exercícios: [Parte 1](https://github.com/VoiidHead/06-notas_de_aula-04-python/blob/main/Lista%20de%20Exerc%C3%ADcios/najia-1.py)
+[Parte 2](https://github.com/VoiidHead/06-notas_de_aula-04-python/blob/main/Lista%20de%20Exerc%C3%ADcios/najia-2.py)
+[Parte 3](https://github.com/VoiidHead/06-notas_de_aula-04-python/blob/main/Lista%20de%20Exerc%C3%ADcios/najia-3.py)
 1. Tente avaliar os resultados de cada uma das expressões a seguir. Considere que as variáveis A, B e C armazenam respectivamente os valores 2, 7 e False. Caso não consiga, use o interpretador de comandos python para avaliar o resultado.
    - `B == A * 2`
    - `B > A + 5`
@@ -58,8 +64,3 @@
    - `True or C and A + 1 < B`
    - `(True or C) and A + 1 < B`
 
-FIXME [Lista de exercícios](/lista.md)
-
-Respostas da lista de exercícios: [Parte 1](https://github.com/VoiidHead/06-notas_de_aula-04-python/blob/main/Lista%20de%20Exerc%C3%ADcios/najia-1.py)
-[Parte 2](https://github.com/VoiidHead/06-notas_de_aula-04-python/blob/main/Lista%20de%20Exerc%C3%ADcios/najia-2.py)
-[Parte 3](https://github.com/VoiidHead/06-notas_de_aula-04-python/blob/main/Lista%20de%20Exerc%C3%ADcios/najia-3.py)
